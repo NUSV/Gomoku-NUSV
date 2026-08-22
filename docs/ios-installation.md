@@ -157,7 +157,7 @@ the current build is not published.
 
 - Download from the GitHub Releases page:
   `Gomoku-NUSV-1.4.6-compatibility.ipa`
-  (https://github.com/Verlintas/Gomoku-NUSV/releases)
+  (https://github.com/NUSV/Gomoku-NUSV/releases)
 - Or build it yourself (macOS + Xcode):
 
   ```bash
