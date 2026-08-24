@@ -121,7 +121,7 @@ compose.desktop {
             targetFormats(TargetFormat.Dmg, TargetFormat.Deb, TargetFormat.Msi)
             packageName = "Gomoku-NUSV"
             packageVersion = "1.6.4"
-            description = "五子棋对弈应用 Gomoku-NUSV"
+            description = "Gomoku-NUSV - a cross-platform Gomoku (Five in a Row) game"
             vendor = "Gomoku"
         }
     }
