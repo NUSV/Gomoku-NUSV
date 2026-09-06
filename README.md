@@ -1,5 +1,16 @@
 # Gomoku-NUSV
 
+<p align="center"><img src="banner.svg" alt="Gomoku-NUSV" width="100%"></p>
+
+<p align="center">
+  <a href="https://github.com/NUSV/Gomoku-NUSV/actions?query=workflow%3A%22Linux+Installer+Builder%22"><img src="https://img.shields.io/github/actions/workflow/status/NUSV/Gomoku-NUSV/linux-build.yml?branch=main&label=linux&logo=linux" alt="Linux build"></a>
+  <a href="https://github.com/NUSV/Gomoku-NUSV/actions?query=workflow%3A%22Windows+Installer+Builder%22"><img src="https://img.shields.io/github/actions/workflow/status/NUSV/Gomoku-NUSV/windows-build.yml?branch=main&label=windows&logo=windows" alt="Windows build"></a>
+  <a href="https://github.com/NUSV/Gomoku-NUSV/releases"><img src="https://img.shields.io/github/v/release/NUSV/Gomoku-NUSV?label=release" alt="Latest release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/NUSV/Gomoku-NUSV" alt="License"></a>
+  <a href="https://github.com/NUSV/Gomoku-NUSV"><img src="https://img.shields.io/github/stars/NUSV/Gomoku-NUSV" alt="Stars"></a>
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20iOS%20%7C%20Android-blue" alt="Platforms">
+</p>
+
 A cross-platform Gomoku (Five in a Row) game for **macOS, Windows, iOS and
 Android**, built with
 [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
