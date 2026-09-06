@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-label="Gomoku-NUSV banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c1917"/>
+      <stop offset="0.6" stop-color="#292524"/>
+      <stop offset="1" stop-color="#0c0a09"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.15" r="0.7">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#f59e0b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M 46 0 L 0 0 0 46" fill="none" stroke="#fbbf24" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="240" rx="24" fill="url(#bg)"/>
+  <rect width="960" height="240" rx="24" fill="url(#glow)"/>
+  <rect width="960" height="240" rx="24" fill="url(#grid)"/>
+  <g transform="translate(690, 130)">
+    <circle cx="0" cy="0" r="34" fill="#f8fafc"/>
+    <circle cx="70" cy="-10" r="26" fill="#1c1917" stroke="#f8fafc" stroke-width="3"/>
+    <circle cx="130" cy="8" r="16" fill="#f8fafc"/>
+    <circle cx="24" cy="44" r="8" fill="#a8a29e"/>
+  </g>
+  <text x="64" y="108" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">Gomoku-NUSV</text>
+  <text x="66" y="146" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="23" fill="#fcd34d">Five in a Row, anywhere</text>
+  <text x="66" y="176" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#a8a29e">macOS - Windows - iOS - Android - on-device AI opponents</text>
+  <g transform="translate(64, 202)">
+    <rect width="212" height="24" rx="12" fill="#ffffff" fill-opacity="0.1"/>
+    <text x="106" y="16" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#fde68a">UNITED SCIENCE VACA</text>
+  </g>
+</svg>
