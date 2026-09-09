@@ -7,5 +7,6 @@
     "iOS",
     "Android"
   ],
-  "docs": "/docs/gomoku.html"
+  "docs": "/docs/gomoku.html",
+  "slug": "gomoku"
 }
