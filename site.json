@@ -1,0 +1,11 @@
+{
+  "name": "Gomoku-NUSV",
+  "tagline": "A polished cross-platform Five-in-a-Row game with on-device AI opponents across three difficulty levels — no network needed.",
+  "platforms": [
+    "macOS",
+    "Windows",
+    "iOS",
+    "Android"
+  ],
+  "docs": "/docs/gomoku.html"
+}
