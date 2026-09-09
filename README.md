@@ -1,7 +1,5 @@
 # Gomoku-NUSV
 
-<p align="center"><img src="banner.svg" alt="Gomoku-NUSV" width="100%"></p>
-
 <p align="center">
   <a href="https://github.com/NUSV/Gomoku-NUSV/actions?query=workflow%3A%22Linux+Installer+Builder%22"><img src="https://img.shields.io/github/actions/workflow/status/NUSV/Gomoku-NUSV/linux-build.yml?branch=main&label=linux&logo=linux" alt="Linux build"></a>
   <a href="https://github.com/NUSV/Gomoku-NUSV/actions?query=workflow%3A%22Windows+Installer+Builder%22"><img src="https://img.shields.io/github/actions/workflow/status/NUSV/Gomoku-NUSV/windows-build.yml?branch=main&label=windows&logo=windows" alt="Windows build"></a>
